@@ -33,6 +33,8 @@ Objetivo:
 
 ### 💻 Resultado:
 
+Acesse o jogo neste link [aqui](https://matheusjuda.github.io./Numero_secreto/)!
+
 https://github.com/matheusjuda/Numero_secreto/assets/114267214/afaf9e3a-5f2f-4219-9477-1e3141926ac6
 
 ##
