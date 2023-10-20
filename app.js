@@ -16,6 +16,11 @@ function exibirMensagemInicial() {
 
 exibirMensagemInicial();
 
+document.getElementById('display').addEventListener('keydown', function (event) {
+    if (event.keyCode !== 13) return;
+    verificarChute();
+})
+
 function verificarChute() {
     let chute = document.getElementById('display').value;
 
